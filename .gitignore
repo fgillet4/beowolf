@@ -1,0 +1,5 @@
+# Local cluster profile with real hostnames/IPs — use cluster_profile.example.json as template
+cluster_profile.json
+
+# macOS
+.DS_Store
